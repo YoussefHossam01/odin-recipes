@@ -4,10 +4,14 @@ body {
     text-align:center;
 }
 
-ul {
+#home {
     text-align:center;
     font-size:30px;
     list-style-type: none;
+}
+
+ul, ol {
+    text-align:left;
 }
 
 h1 {
