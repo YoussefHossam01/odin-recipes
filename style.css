@@ -1,4 +1,15 @@
 body {
     background-color: antiquewhite;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+}
+
+ul {
+    text-align:center;
+    font-size:30px;
+    list-style-type: none;
+}
+
+h1 {
+    font-size: 60px;
 }
